@@ -107,6 +107,7 @@ section {
 }
 body {
    background-color:black;
+   game-text-color:green;
 }
 ol,
 ul {
